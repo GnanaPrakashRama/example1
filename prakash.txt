@@ -1,0 +1,14 @@
+#! /bin/bash
+
+
+#adding
+a=$(( 12+21 ))
+
+#subtration
+b=(( 12-21))
+
+#mutilpilcation
+c=(( 12*21 ))
+
+
+#divide
